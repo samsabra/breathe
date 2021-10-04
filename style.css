@@ -4,7 +4,7 @@
     --bubble-primary: rgb(255, 144, 104);
     --bubble-primary-lighter: rgba(255, 144, 104, 0.7);
     --bubble-secondary: rgb(253, 116, 108);
-    --breathe-time: 6000ms;
+    --breathe-time: 5454ms;
 }
 
 body {
